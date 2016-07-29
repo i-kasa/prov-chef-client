@@ -1,4 +1,5 @@
 It is only joke
+<<<<<<< HEAD
 It is only joke
 It is only joke
 It is only joke
@@ -7,3 +8,5 @@ It is only joke
 It is only joke
 It is only joke
 It is only joke
+=======
+>>>>>>> 94bd26a0641b86c23e699035f356326881afbc96
