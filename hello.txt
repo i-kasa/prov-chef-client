@@ -2,3 +2,5 @@ Hello, Git.
 
 test
 start
+
+restart
