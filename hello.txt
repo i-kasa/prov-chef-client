@@ -1,6 +1,2 @@
 Hello, Git.
-
-test
-start
-
-restart
+Hello, Jenkins.
