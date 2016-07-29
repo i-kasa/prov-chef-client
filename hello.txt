@@ -1,7 +1,2 @@
 Hello, Git.
-Hello, Jenkins.
-Hello, all.
 
-
-
-all all all
